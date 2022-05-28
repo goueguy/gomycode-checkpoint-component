@@ -1,0 +1,14 @@
+body{
+    background-color: #dfe6e9 !important;
+}
+.profileContainer{
+    background-color: #fff;
+    width: 500px;
+    height: auto;
+    transform: translate(0%,8%);
+    border-radius: 10px;
+}
+.profile-picture-size{
+    height: 150px !important;
+    padding: 20px;
+}
